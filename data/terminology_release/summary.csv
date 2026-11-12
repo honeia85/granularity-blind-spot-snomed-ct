@@ -1,0 +1,15 @@
+quantity,value
+reference_release,2025-10-17
+prediction_rows,9890
+evaluated_concepts,2861
+gold_concepts,1517
+predicted_concepts,2641
+international_releases_in_concept_history,101
+spanish_release,2022-10-31
+spanish_declared_international_base,2022-07-31
+spanish_extension_concepts,2
+spanish_extension_is_a_rows,4
+spanish_extension_active_is_a_rows,2
+spanish_extension_inactive_is_a_rows,2
+spanish_extension_concepts_among_evaluated,0
+spanish_extension_rows_changed_when_added_to_base,0

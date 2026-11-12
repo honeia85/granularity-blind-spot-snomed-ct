@@ -1,0 +1,345 @@
+{
+ "accepted_alternative_pairs": 30,
+ "frame_NARROW": 566,
+ "frame_NARROW_DisTEMIST": 235,
+ "frame_NARROW_MedProcNER": 134,
+ "frame_NARROW_SympTEMIST": 197,
+ "hierarchy_2025-10-17": {
+  "active_isa_relationships": 624366,
+  "ancestor_pairs_by_hops": {
+   "1": 3,
+   "2": 1
+  },
+  "descendant_pairs_by_hops": {
+   "1": 4
+  },
+  "mentions_by_closest_class": {
+   "ancestor": 4,
+   "descendant": 4,
+   "lateral": 3,
+   "other_top_level_hierarchy": 2,
+   "same_concept_after_mapping": 8,
+   "sibling": 2
+  },
+  "mentions_with_a_direct_parent_among_candidates": 5,
+  "mentions_with_an_accepted_ancestor_among_them": 4,
+  "mentions_with_an_ancestor_among_candidates": 12,
+  "pairs_by_class": {
+   "ancestor": 4,
+   "descendant": 4,
+   "lateral": 5,
+   "other_top_level_hierarchy": 4,
+   "same_concept_after_mapping": 11,
+   "sibling": 2
+  },
+  "pairs_by_route": {
+   "association": 14,
+   "direct": 16
+  },
+  "presented_and_accepted_by_class": {
+   "ancestor": {
+    "accepted": 4,
+    "presented": 13
+   },
+   "descendant": {
+    "accepted": 4,
+    "presented": 78
+   },
+   "lateral": {
+    "accepted": 5,
+    "presented": 300
+   },
+   "other_top_level_hierarchy": {
+    "accepted": 4,
+    "presented": 72
+   },
+   "same_concept_after_mapping": {
+    "accepted": 11,
+    "presented": 11
+   },
+   "sibling": {
+    "accepted": 2,
+    "presented": 9
+   }
+  },
+  "presented_candidates": 483,
+  "presented_candidates_equal_to_gold": 0,
+  "sibling_or_lateral_pairs": 7,
+  "sibling_or_lateral_pairs_alternative_is_parent_of_a_child": 0,
+  "sibling_or_lateral_pairs_by_common_ancestor_depth": {
+   "1": 2,
+   "11": 1,
+   "5": 1,
+   "6": 3
+  },
+  "sibling_or_lateral_pairs_by_shortest_path": {
+   "2": 2,
+   "4": 2,
+   "5": 1,
+   "6": 2
+  },
+  "sibling_or_lateral_pairs_sharing_a_descendant": 0,
+  "weighted_by_closest_class": {
+   "ancestor": {
+    "ci95_high": 0.07479515672693562,
+    "ci95_low": 0.004805357097485807,
+    "mentions": 4,
+    "weighted_share": 0.039800256912210716
+   },
+   "any_accepted_alternative": {
+    "ci95_high": 0.3052804537037825,
+    "ci95_low": 0.15678785375364845,
+    "mentions": 23,
+    "weighted_share": 0.23103415372871547
+   },
+   "descendant": {
+    "ci95_high": 0.0753642154115106,
+    "ci95_low": 0.004920440034740972,
+    "mentions": 4,
+    "weighted_share": 0.04014232772312579
+   },
+   "lateral": {
+    "ci95_high": 0.06066790452207933,
+    "ci95_low": 0.0,
+    "mentions": 3,
+    "weighted_share": 0.029935710386886805
+   },
+   "other_top_level_hierarchy": {
+    "ci95_high": 0.045322087446744735,
+    "ci95_low": 0.0,
+    "mentions": 2,
+    "weighted_share": 0.020071163861562893
+   },
+   "same_concept_after_mapping": {
+    "ci95_high": 0.1273427060204288,
+    "ci95_low": 0.034684355946303945,
+    "mentions": 8,
+    "weighted_share": 0.08101353098336637
+   },
+   "sibling": {
+    "ci95_high": 0.045322087446744735,
+    "ci95_low": 0.0,
+    "mentions": 2,
+    "weighted_share": 0.020071163861562893
+   },
+   "sibling_or_lateral": {
+    "ci95_high": 0.08934438798269151,
+    "ci95_low": 0.010669360514207894,
+    "mentions": 5,
+    "weighted_share": 0.0500068742484497
+   }
+  }
+ },
+ "hierarchy_2026-11-01": {
+  "active_isa_relationships": 649062,
+  "ancestor_pairs_by_hops": {
+   "1": 3,
+   "2": 1
+  },
+  "descendant_pairs_by_hops": {
+   "1": 4
+  },
+  "mentions_by_closest_class": {
+   "ancestor": 4,
+   "descendant": 4,
+   "lateral": 3,
+   "other_top_level_hierarchy": 2,
+   "same_concept_after_mapping": 8,
+   "sibling": 2
+  },
+  "mentions_with_a_direct_parent_among_candidates": 5,
+  "mentions_with_an_accepted_ancestor_among_them": 4,
+  "mentions_with_an_ancestor_among_candidates": 12,
+  "pairs_by_class": {
+   "ancestor": 4,
+   "descendant": 4,
+   "lateral": 5,
+   "other_top_level_hierarchy": 4,
+   "same_concept_after_mapping": 11,
+   "sibling": 2
+  },
+  "pairs_by_route": {
+   "association": 14,
+   "direct": 16
+  },
+  "presented_and_accepted_by_class": {
+   "ancestor": {
+    "accepted": 4,
+    "presented": 13
+   },
+   "descendant": {
+    "accepted": 4,
+    "presented": 81
+   },
+   "lateral": {
+    "accepted": 5,
+    "presented": 298
+   },
+   "other_top_level_hierarchy": {
+    "accepted": 4,
+    "presented": 71
+   },
+   "same_concept_after_mapping": {
+    "accepted": 11,
+    "presented": 11
+   },
+   "sibling": {
+    "accepted": 2,
+    "presented": 9
+   }
+  },
+  "presented_candidates": 483,
+  "presented_candidates_equal_to_gold": 0,
+  "sibling_or_lateral_pairs": 7,
+  "sibling_or_lateral_pairs_alternative_is_parent_of_a_child": 0,
+  "sibling_or_lateral_pairs_by_common_ancestor_depth": {
+   "1": 2,
+   "11": 1,
+   "5": 1,
+   "6": 3
+  },
+  "sibling_or_lateral_pairs_by_shortest_path": {
+   "2": 2,
+   "4": 2,
+   "5": 1,
+   "6": 2
+  },
+  "sibling_or_lateral_pairs_sharing_a_descendant": 0
+ },
+ "hierarchy_classes_identical_at_both_time_points": true,
+ "mentions_with_accepted_alternative": 23,
+ "mentions_with_accepted_alternative_DisTEMIST": 14,
+ "mentions_with_accepted_alternative_MedProcNER": 3,
+ "mentions_with_accepted_alternative_SympTEMIST": 6,
+ "penalty": {
+  "per_system": {
+   "lexical": {
+    "benchmarks": [
+     "DisTEMIST",
+     "MedProcNER",
+     "SympTEMIST"
+    ],
+    "credited_S1": 3,
+    "credited_share_S1": 0.029855784423568614,
+    "credited_share_S1_ci95_high": 0.06005917578724582,
+    "credited_share_S1_ci95_low": 0.0,
+    "credited_share_S2": 0.1200049863951441,
+    "error_rate": 0.7190812720848057,
+    "error_rate_S1": 0.689225487661237,
+    "error_rate_S2": 0.5990762856896615,
+    "frame_NARROW": 566,
+    "reduction_pp_S1": 2.985578442356861,
+    "relative_reduction_S1": 0.04151934639739517,
+    "relative_reduction_S2": 0.16688654127678518,
+    "sampled_errors": 71
+   },
+   "llm_gen": {
+    "benchmarks": [
+     "DisTEMIST",
+     "MedProcNER",
+     "SympTEMIST"
+    ],
+    "credited_S1": 3,
+    "credited_share_S1": 0.029855784423568614,
+    "credited_share_S1_ci95_high": 0.06005917578724582,
+    "credited_share_S1_ci95_low": 0.0,
+    "credited_share_S2": 0.21078077098287387,
+    "error_rate": 0.911660777385159,
+    "error_rate_S1": 0.8818049929615904,
+    "error_rate_S2": 0.7008800064022851,
+    "frame_NARROW": 566,
+    "reduction_pp_S1": 2.985578442356861,
+    "relative_reduction_S1": 0.032748786790193475,
+    "relative_reduction_S2": 0.23120526429516783,
+    "sampled_errors": 93
+   },
+   "llm_rerank": {
+    "benchmarks": [
+     "DisTEMIST",
+     "MedProcNER",
+     "SympTEMIST"
+    ],
+    "credited_S1": 2,
+    "credited_share_S1": 0.019991237898244706,
+    "credited_share_S1_ci95_high": 0.04513223217428676,
+    "credited_share_S1_ci95_low": 0.0,
+    "credited_share_S2": 0.12034705720605918,
+    "error_rate": 0.6130742049469965,
+    "error_rate_S1": 0.5930829670487517,
+    "error_rate_S2": 0.4927271477409373,
+    "frame_NARROW": 566,
+    "reduction_pp_S1": 1.9991237898244707,
+    "relative_reduction_S1": 0.03260818631241067,
+    "relative_reduction_S2": 0.19630096362717434,
+    "sampled_errors": 65
+   },
+   "sapbert": {
+    "benchmarks": [
+     "DisTEMIST",
+     "MedProcNER",
+     "SympTEMIST"
+    ],
+    "credited_S1": 1,
+    "credited_share_S1": 0.010126691372920797,
+    "credited_share_S1_ci95_high": 0.028160298298034542,
+    "credited_share_S1_ci95_low": 0.0,
+    "credited_share_S2": 0.1398939313724283,
+    "error_rate": 0.6678445229681979,
+    "error_rate_S1": 0.6577178315952771,
+    "error_rate_S2": 0.5279505915957695,
+    "frame_NARROW": 566,
+    "reduction_pp_S1": 1.0126691372920797,
+    "relative_reduction_S1": 0.015163246870563946,
+    "relative_reduction_S2": 0.20947080729310694,
+    "sampled_errors": 70
+   },
+   "sapbert_ft": {
+    "benchmarks": [
+     "DisTEMIST",
+     "SympTEMIST"
+    ],
+    "credited_S1": 1,
+    "credited_share_S1": 0.013267841011743452,
+    "credited_share_S1_ci95_high": 0.03689520564048043,
+    "credited_share_S1_ci95_low": 0.0,
+    "credited_share_S2": 0.14451380823332044,
+    "error_rate": 0.5347222222222222,
+    "error_rate_S1": 0.5214543812104788,
+    "error_rate_S2": 0.39020841398890177,
+    "frame_NARROW": 432,
+    "reduction_pp_S1": 1.3267841011743453,
+    "relative_reduction_S1": 0.02481258578819555,
+    "relative_reduction_S2": 0.27025958942335254,
+    "sampled_errors": 47
+   }
+  },
+  "risk_ratio": {
+   "S1": 1.6728840504386426,
+   "S1_cp_lower_share": 1.7211441615725909,
+   "S1_cp_upper_share": 1.3847166635303074,
+   "S1_resample95": [
+    1.6069590290636808,
+    1.7246375019947953
+   ],
+   "S1_symmetric_EXACT": 1.7297584099616585,
+   "S2": 1.3656708356954912,
+   "S2_cp_upper_share": 0.9680172528041533,
+   "S2_resample95": [
+    1.2003768142984654,
+    1.5153721741270416
+   ],
+   "S2_symmetric_EXACT": 1.7018799058451206,
+   "relative_NARROW_error_reduction_for_ratio_1": 0.420168006990829,
+   "unadjusted": 1.7246375019947953
+  },
+  "sampled_errors": 346,
+  "sampled_errors_credited_S1": 10,
+  "sampled_errors_on_mentions_with_accepted_alternative": 70,
+  "sampled_errors_with_prediction_among_candidates": 35
+ },
+ "reviewed_mentions": 100,
+ "reviewed_mentions_DisTEMIST": 41,
+ "reviewed_mentions_MedProcNER": 24,
+ "reviewed_mentions_SympTEMIST": 35,
+ "risk_ratio_unadjusted": 1.7246375019947953
+}

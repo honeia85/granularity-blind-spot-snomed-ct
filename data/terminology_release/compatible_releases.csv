@@ -1,0 +1,4 @@
+benchmark,gold_concepts,first_release_all_exist,first_release_all_active,last_release_all_active,releases_all_exist_and_active,gold_inactive_at_20221031
+DisTEMIST,584,2021-07-31,2021-07-31,2026-01-01,52,0
+MedProcNER,436,2022-07-31,2022-07-31,2025-11-01,40,0
+SympTEMIST,532,2022-07-31,,,0,12

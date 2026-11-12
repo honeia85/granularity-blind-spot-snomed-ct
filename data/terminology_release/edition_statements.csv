@@ -1,0 +1,5 @@
+benchmark,statement,date,source
+DisTEMIST,SNOMED CT version stated for the code set,2021-10-21,"Task web page, frequently asked questions"
+MedProcNER,Spanish edition used to build the gazetteer,2022-10-31,Shared-task overview paper
+SympTEMIST,Spanish edition used to build the gazetteer,2022-10-31,Shared-task overview paper
+all three,release used for annotation mapping,,not stated in the organizer documentation

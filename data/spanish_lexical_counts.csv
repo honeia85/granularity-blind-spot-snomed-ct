@@ -1,0 +1,4 @@
+benchmark,candidate_codes,n_EXACT,n_NARROW,gazetteer_exact_EXACT,gazetteer_exact_NARROW,spanish_edition_exact_EXACT,spanish_edition_exact_NARROW
+DisTEMIST,2774,443,235,267,78,265,81
+MedProcNER,1618,491,134,238,37,242,37
+SympTEMIST,1735,603,197,322,36,314,35

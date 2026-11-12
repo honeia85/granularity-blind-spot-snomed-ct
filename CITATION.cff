@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it as below."
+title: "Reproduction package: A granularity blind spot in the evaluation of SNOMED CT concept normalization"
+type: dataset
+version: 1.0.0
+doi: 10.5281/zenodo.24158562
+repository-code: "https://github.com/honeia85/granularity-blind-spot-snomed-ct"
+authors:
+  - family-names: Jo
+    given-names: Yejin
+    orcid: "https://orcid.org/0009-0002-0158-7950"
+    affiliation: "Regional Emergency Medical Center, Samsung Changwon Hospital, Sungkyunkwan University School of Medicine"
+  - family-names: Nam
+    given-names: Yoojin
+    orcid: "https://orcid.org/0000-0001-8565-1360"
+    affiliation: "Department of Radiology and Research Institute of Radiology, University of Ulsan College of Medicine, Asan Medical Center; and Department of Convergence Medicine, University of Ulsan College of Medicine, Asan Medical Center"
+  - family-names: Kim
+    given-names: YangWon
+    orcid: "https://orcid.org/0009-0004-1123-9858"
+    affiliation: "Department of Radiology, Samsung Changwon Hospital, Sungkyunkwan University School of Medicine"
+  - family-names: Kim
+    given-names: Eunji
+    orcid: "https://orcid.org/0009-0003-3075-9683"
+    affiliation: "Department of Radiology, Samsung Changwon Hospital, Sungkyunkwan University School of Medicine"
+  - family-names: Hong
+    given-names: Pa
+    orcid: "https://orcid.org/0000-0001-5495-5230"
+    affiliation: "Department of Radiology, Samsung Changwon Hospital, Sungkyunkwan University School of Medicine; and Department of Digital Health, Samsung Advanced Institute for Health Sciences and Technology (SAIHST), Sungkyunkwan University"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - SNOMED CT
+  - concept normalization
+  - clinical natural language processing
+  - evaluation
+  - reproducibility
+abstract: "Data, code and results for the reported analyses that do not require licensed or identifier-linked inputs, from a study of mention-level evaluation of SNOMED CT concept normalization on three Spanish clinical benchmarks: per-mention scores of five systems, credit gaps, error incidence and its decomposition, resampling intervals, relation types, label re-annotation and validation, alternative codes, cross-checks, Thai term-level, translation-by-normalization, Spanish lexical-resource and terminology-release analyses. Reported values that need such inputs are listed in README.md."
